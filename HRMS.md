@@ -4,7 +4,6 @@
 
 
 
-
 **Full Stack Cloud based DevOps CICD Projects:**
 
 ***Full Stack DevOps CICD Implementation and Deployment on AWS using ECS:***               
